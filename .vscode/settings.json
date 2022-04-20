@@ -8,5 +8,5 @@
         "randn",
         "vutils"
     ],
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "remote"
 }
