@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "Conv",
+        "cudnn",
+        "DCGAN",
+        "inplace",
+        "ngpu",
+        "randn",
+        "vutils"
+    ],
+    "jupyter.jupyterServerType": "local"
+}
